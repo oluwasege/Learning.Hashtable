@@ -6,7 +6,7 @@ namespace Learning.Hashtable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Example.Dictionary();
         }
     }
 }
